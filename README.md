@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Camu5
-- 🧬 I’m interested in systems biology, mathematics, and parasitology.
+- 🧬 I’m interested in dynamical systems, mathematics, histology and neurosciences.
 - 👩‍💻 I’m experienced in Python, R, Bash. Also some basics in C++.
 - 💡 I’m looking to collaborate on projects related to biology, mathematics, and programming (+ philosopy).
-- 🌱 I’m currently learning about complex ecological models applied to parasitology.
 - 💬 Ask me about my interest in Aristotelian-Thomist philosophy and how it influences my approach to biology.
 - ⚡ Fun fact: Did you know about "parasitic numbers" in mathematics? They have a fascinating property: when multiplied by a specific integer, the result is a rearrangement of their digits. For example, 1089 x 9 = 9801. This concept mirrors the intricate relationships seen in parasitology, where organisms evolve complex life cycles involving multiple hosts.
 
