@@ -1,9 +1,38 @@
-- 👋 Hi, I’m @Eccl3s (a nod to John Carew Eccles)
-- 🧬 I’m interested in dynamical systems, biophysics, medicine, histology and neurosciences.
-- 👩‍💻 I’m experienced in Python, R, Bash. Also some basics in C++.
-- 💬 Ask me about my interest in Aristotelian-Thomist philosophy and how it influences my approach to biology.
-- ❤️ Cats mean the world to me.
-- ⚡ Fun fact: Did you know about "parasitic numbers" in mathematics? They have a fascinating property: when multiplied by a specific integer, the result is a rearrangement of their digits. For example, 1089 x 9 = 9801. This concept mirrors the intricate relationships seen in parasitology, where organisms evolve complex life cycles involving multiple hosts.
+> **«ἀπὸ μέτρου γὰρ καὶ ἀριθμοῦ καὶ σταθμοῦ πάντα ἐποίησας.»**  
+
+---
+
+## 🧬 About Me
+
+I study life not merely as a phenomenon, but as an intelligible form—ordered, dynamic, and luminous.  
+I'm currently a **Biology student at UNAM**, working at the intersection of:
+
+- 🧠 **Neuroscience**  
+- ⚛️ **Biophysics and electrophysiology**  
+- 🧫 **Histology and histopathology**  
+- 📊 **Mathematical modeling of dynamical systems**
+
+I'm particularly fascinated by the **biophysical substrates of consciousness**, the **computational geometry of mental pathology**, and the **epistemic structure of the nervous system**.  
+
+My intellectual formation draws upon **Aristotelian-Thomistic metaphysics**, **Augustinian introspection**, and the scientific legacy of **Ramón y Cajal**, **John Eccles**, **Eric Kandel**, and many scientist and philosophers.  
+I believe that beauty, structure, and intelligibility are not accidental features of reality—but expressions of **Logos**.
+
+---
+
+## 🧰 Tools and Languages
+
+- **Languages:** `Python`, `R`, `Bash`, with foundational knowledge of `C++`
+- **Fields of interest:** Biomathematics, dynamical systems, theoretical neuroscience, neurophilosophy, bioelectricity, and scientific computing
+
+---
+
+## 📚 Human! I love...
+
+- 📜 **Metaphysics, philosophy of mind, epistemology**
+- 🏛️ **Roman and Greek history, classical languages, theology**
+- 🐈 **Cats**, of course—wise, silent companions in the pursuit of truth
+
+---
 
 <!--
 **Eccl3s/Eccl3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
