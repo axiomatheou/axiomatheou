@@ -26,15 +26,15 @@ My main interests include **non-equilibrium thermodynamics, dissipative structur
 ## 🧰 Tools & Languages  
 
 - **Programming:** `Python`, `R`, `Bash`, learning `C++`  
-- **Methods:** data analysis, dynamical systems simulation, mathematical modeling  
-- **Other skills:** LaTeX, computational neuroscience, agent-based modeling (NetLogo)  
+- **Methods:** data analysis, dynamical systems simulation, mathematical modeling, histology, molecular biology, chemistry 
+- **Other skills:** LaTeX, computational neuroscience, agent-based modeling (NetLogo), writing, public speeches, electronics   
 
 ---
 
 ## 🐾 Beyond Science  
 
 - 📜 **Metaphysics & Philosophy of Mind** – questions of being, knowledge, and thought  
-- 🏛️ **History & Classics** – Greece, Rome, and the languages of reason (*Latin, Greek, Italian, Portuguese*)  
+- 🏛️ **History & Classics** – Greece, Rome, and the languages of the World (*Latin, Ancient Greek, Italian, Portuguese, Deutsch*)  
 - 🐈 **Cats** — Catullus, Clío, and Calímaco, my quiet companions in study and life  
 
 
