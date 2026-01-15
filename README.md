@@ -3,7 +3,7 @@
 # 🌌 Santiago Caballero Rosas  
 
 **Physics & Biology student | UNAM – Faculty of Sciences**  
-*Interested in how matter organizes itself into life, complexity, and mind*  
+*Studying living systems through dynamics, structure, and meaning*  
 
 ---
 ## 🧬 About Me  
