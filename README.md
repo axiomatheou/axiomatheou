@@ -3,38 +3,44 @@
 # 🌌 Santiago Caballero Rosas  
 
 **Physics & Biology student | UNAM – Faculty of Sciences**  
-*Exploring life as structure, energy, and meaning*  
+*Interested in how matter organizes itself into life, complexity, and mind*  
 
 ---
-
 ## 🧬 About Me  
 
-I study **life as intelligibility**: not only as a phenomenon, but as a **structured and dynamic form**.  
-My academic path bridges biology, physics, and philosophy, seeking to understand how matter gives rise to order, complexity, and mind.  
+I study biology at the intersection of physics, mathematics, and philosophy. My intended work focuses on understanding living systems through their underlying dynamics: how structure emerges from thermodynamic constraints, how networks give rise to behavior, and how different levels of description relate to each other.
 
-I work at the intersection of:  
+Main areas of interest:
 
-- 🧠 **Neuroscience** – from networks to the biophysics of consciousness  
-- ⚛️ **Biophysics & Electrophysiology** – ion channels, pulses, and cellular excitability  
-- 🧫 **Histology & Histopathology** – structure, disease, and their hidden patterns  
-- 📊 **Mathematical & Physical Models** – dynamical systems, entropy, and emergent order  
+- 🧠 **Neuroscience, Cognitive Science & Neuropathology** – excitable systems, neural networks, theoretical approaches to brain function and mind, mental illness, trauma, psychological structures, psychiatry and neurology
+- ⚛️ **Biophysics & Non-equilibrium Thermodynamics** – dissipative structures, electrophisiology, electricity, thermodynamical principles in living systems
+- 🔬 **Histology & Histopathology** – tissue architecture, experimental techniques, structural patterns in disease
+- 📊 **Complex Systems & Mathematical Modeling** – dynamical systems, systems biology, biological networks, mathematical physiology
+- 🎲 **Statistics** – heavy-tailed distributions, antifragility, modeling uncertainty
+- 🧩 **Philosophy** – metaphysics, philosophy of mind, philosophy and history of science
 
-My main interests include **non-equilibrium thermodynamics, dissipative structures, complexity, emergence, and the philosophy of science**.  
+I write occasional essays on [Medium](https://medium.com/@axiomatheou) exploring these topics.
 
 ---
 
-## 🧰 Tools & Languages  
+## 🧰 Tools & Methods  
 
-- **Programming:** `Python`, `R`, `Bash`, learning `C++`  
-- **Methods:** data analysis, dynamical systems simulation, mathematical modeling, histology, molecular biology, chemistry 
-- **Other skills:** LaTeX, computational neuroscience, agent-based modeling (NetLogo), writing, public speeches, electronics   
+- **Programming:** Python, R, Bash, learning C++  
+- **Skills:** Mathematical modeling, data analysis, histological techniques, molecular biology, agent-based modeling (NetLogo)
+- **Other:** LaTeX, bioinformatics, electronics, writing, public speaking
+
+---
+
+## 🌍 Languages i speak (to different levels)
+
+Spanish • English • Latin • German • Italian • Portuguese • Ancient Greek (all learning except Spanish :P)
 
 ---
 
 ## 🐾 Beyond Science  
 
-- 📜 **Metaphysics & Philosophy of Mind** – questions of being, knowledge, and thought  
-- 🏛️ **History & Classics** – Greece, Rome, and the languages of the World (*Latin, Ancient Greek, Italian, Portuguese, Deutsch*)  
-- 🐈 **Cats** — Catullus, Clío, and Calímaco, my quiet companions in study and life  
+**Authors i like:** Aristotle • Augustine • Dostoevsky • H.G. Wells • Tolstoy • Camus • Kundera • Borges  • Goethe • Arreola • McCarthy • Ovid • Aquinas • Wittgenstein • Feser  
 
+**My three little cats**: Catullus, Clío, and Calímaco (Cali).
 
+---
