@@ -2,7 +2,7 @@
 
 # 🌌 Santiago Caballero Rosas  
 
-**Physics & Biology student | UNAM – Faculty of Sciences**  
+**Physics & Biology student | UNAM**  
 *Studying living systems through dynamics, structure, and meaning*  
 
 ---
@@ -27,7 +27,7 @@ I write occasional essays on [Medium](https://medium.com/@axiomatheou) exploring
 
 - **Programming:** Python, R, Bash, learning C++  
 - **Skills:** Mathematical modeling, data analysis, histological techniques, molecular biology, agent-based modeling (NetLogo)
-- **Other:** LaTeX, bioinformatics, electronics, writing, public speaking
+- **Other:** LaTeX, Linux, bioinformatics, electronics, writing, public speaking
 
 ---
 
