@@ -13,37 +13,38 @@
 I work at the intersection of complex systems, applied mathematics, physics, and the philosophy of nature. My focus is understanding how structure, order, and behavior emerge across levels of description and try to look to the deeper question of why there is pattern at all.
 
 
-<section id="interests">
-  <h2>🔭 Interests</h2>
+<h2>🔭 Interests</h2>
 
-  <div class="interest-category">
-    <h3>Formal 📊</h3>
-    <p>
-      dynamical systems · probability theory · information theory · algorithmic complexity · Bayesian reasoning · antifragility
-    </p>
-  </div>
+<p><strong>Formal</strong><br>
+<img src="https://img.shields.io/badge/Dynamical_Systems-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Probability_Theory-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Information_Theory-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithmic_Complexity-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bayesian_Reasoning-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Antifragility-1a1a2e?style=flat-square"/>
+</p>
 
-  <div class="interest-category">
-    <h3>Physical ⚡</h3>
-    <p>
-      complex systems · non-equilibrium thermodynamics · dissipative structures · emergence · network theory · phase transitions
-    </p>
-  </div>
+<p><strong>Physical</strong><br>
+<img src="https://img.shields.io/badge/Complex_Systems-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Non--equilibrium_Thermo-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dissipative_Structures-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network_Theory-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Phase_Transitions-16213e?style=flat-square"/>
+</p>
 
-  <div class="interest-category">
-    <h3>Natural 🩻</h3>
-    <p>
-      computational neuroscience · psychopathology · free energy principle · neural dynamics · theoretical biology · histopathology
-    </p>
-  </div>
+<p><strong>Natural</strong><br>
+<img src="https://img.shields.io/badge/Computational_Neuroscience-0f3460?style=flat-square"/>
+<img src="https://img.shields.io/badge/Psychopathology-0f3460?style=flat-square"/>
+<img src="https://img.shields.io/badge/Free_Energy_Principle-0f3460?style=flat-square"/>
+<img src="https://img.shields.io/badge/Theoretical_Biology-0f3460?style=flat-square"/>
+</p>
 
-  <div class="interest-category">
-    <h3>Philosophical 📖</h3>
-    <p>
-      metaphysics · philosophy of mind · philosophy of science · theology · history of ideas
-    </p>
-  </div>
-</section>
+<p><strong>Philosophical</strong><br>
+<img src="https://img.shields.io/badge/Metaphysics-2d2d2d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Philosophy_of_Mind-2d2d2d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Theology-2d2d2d?style=flat-square"/>
+<img src="https://img.shields.io/badge/History_of_Ideas-2d2d2d?style=flat-square"/>
+</p>
 
 
 ## 🧰 Tools & Methods
