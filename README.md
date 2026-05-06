@@ -17,37 +17,30 @@ I work at the intersection of complex systems, applied mathematics, physics, and
   <h2>🔭 Interests</h2>
 
   <div class="interest-category">
-    <h3>Formal</h3>
+    <h3>Formal 📊</h3>
     <p>
       dynamical systems · probability theory · information theory · algorithmic complexity · Bayesian reasoning · antifragility
     </p>
   </div>
 
   <div class="interest-category">
-    <h3>Physical</h3>
+    <h3>Physical ⚡</h3>
     <p>
       complex systems · non-equilibrium thermodynamics · dissipative structures · emergence · network theory · phase transitions
     </p>
   </div>
 
   <div class="interest-category">
-    <h3>Natural</h3>
+    <h3>Natural 🩻</h3>
     <p>
       computational neuroscience · psychopathology · free energy principle · neural dynamics · theoretical biology · histopathology
     </p>
   </div>
 
   <div class="interest-category">
-    <h3>Philosophical</h3>
+    <h3>Philosophical 📖</h3>
     <p>
       metaphysics · philosophy of mind · philosophy of science · theology · history of ideas
-    </p>
-  </div>
-
-  <div class="interest-category">
-    <h3>Humanistic</h3>
-    <p>
-      linguistics · historical grammar · classical languages · music theory · counterpoint · history of ideas
     </p>
   </div>
 </section>
