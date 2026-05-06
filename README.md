@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=28&duration=3500&pause=800&color=C8B8A2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Santiago+Caballero+Rosas;Oriented+toward+the+Logos+and+nothing+elseἀπὸ+μέτρου+γὰρ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=28&duration=3500&pause=800&color=C8B8A2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌌+Santiago+Caballero+Rosas;ἀπὸ+μέτρου+γὰρ+καὶ+ἀριθμοῦ+καὶ+σταθμοῦ+πάντα+ἐποίησας." alt="Typing SVG" />
   </a>
 </h1>
 
