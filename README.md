@@ -12,24 +12,13 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 
 ## 🔭 Interests
 
-### Foundations & Formal Structure
-- **Mathematics & Mathematical Modeling**: dynamical systems, differential equations, formal structures in nature
-- **Probability & Statistics**: heavy-tailed distributions, uncertainty modeling, antifragility, Bayesian reasoning
-- **Information Theory & Complexity**: entropy, algorithmic complexity, compression, mutual information, complexity measures, connections between information and physical systems
+**Formal:** dynamical systems · probability · information theory · algorithmic complexity · Bayesian reasoning · antifragility
 
-### Physical & Beyond Systems
-- **Complex Systems**: emergence, self-organization, network theory, phase transitions, critical phenomena
-- **Non-equilibrium Thermodynamics**: dissipative structures, free energy principles, open systems far from equilibrium
-- **Theoretical Biology & Pathology**: mathematical approaches to living systems, structural patterns in disease, histopathology
+**Physical:** complex systems · non-equilibrium thermodynamics · dissipative structures · emergence · network theory · phase transitions
 
-### Mind, Meaning & Structure
-- **Neuroscience & Cognitive Science**: theoretical approaches to brain function, neural dynamics, computational neuroscience
-- **Psychiatry & Psychopathology**: mental illness, psychological structures, theoretical psychiatry
-- **Philosophy**: metaphysics, philosophy of mind, philosophy and history of science, theology
+**Natural:**  computational neuroscience · psychopathology · free energy principle · neural dynamics · theoretical biology · histopathology  
 
-### Languages, History & Culture
-- **Linguistics & Languages**: historical linguistics, language structure, classical languages, the logic of grammar
-- **History**: history of science, history of ideas, ancient, medieval, and all the history
+**Philosophical:** metaphysics · philosophy of mind · philosophy of science · theology
 
 I write occasional essays on [Medium](https://medium.com/@axiomatheou) exploring these and related ideas.
 
