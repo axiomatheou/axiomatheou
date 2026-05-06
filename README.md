@@ -1,46 +1,64 @@
 > **«ἀπὸ μέτρου γὰρ καὶ ἀριθμοῦ καὶ σταθμοῦ πάντα ἐποίησας.»**  
 
-# 🌌 Santiago Caballero Rosas  
+# 🌌 Santiago Caballero Rosas
 
-**Physics & Biology student | UNAM**  
-*Studying living systems through dynamics, structure, and meaning*  
-
----
-## 🧬 About Me  
-
-I study biology at the intersection of physics, mathematics, and philosophy. My intended work focuses on understanding living systems through their underlying dynamics: how structure emerges from thermodynamic constraints, how networks give rise to behavior, and how different levels of description relate to each other.
-
-Main areas of interest:
-
-- 🧠 **Neuroscience, Cognitive Science & Neuropathology** – excitable systems, neural networks, theoretical approaches to brain function and mind, mental illness, trauma, psychological structures, psychiatry and neurology
-- ⚛️ **Biophysics & Non-equilibrium Thermodynamics** – dissipative structures, electrophisiology, electricity, thermodynamical principles in living systems
-- 🔬 **Histology & Histopathology** – tissue architecture, experimental techniques, structural patterns in disease
-- 📊 **Complex Systems & Mathematical Modeling** – dynamical systems, systems biology, biological networks, mathematical physiology
-- 🎲 **Statistics** – heavy-tailed distributions, antifragility, modeling uncertainty
-- 🧩 **Philosophy** – metaphysics, philosophy of mind, philosophy and history of science
-
-I write occasional essays on [Medium](https://medium.com/@axiomatheou) exploring these topics.
+*Modeling the mathematical structure underlying reality —> from dissipative systems to the architecture of mind!*
 
 ---
 
-## 🧰 Tools & Methods  
+## 🧬 About Me
 
-- **Programming:** Python, R, Bash, learning C++  
-- **Skills:** Mathematical modeling, data analysis, histological techniques, molecular biology, agent-based modeling (NetLogo)
+I work at the intersection of complex systems, applied mathematics, physics, and the philosophy of nature. My focus is understanding how structure, order, and behavior emerge across levels of description and try to look to the deeper question of why there is pattern at all.
+
+## 🔭 Interests
+
+### Foundations & Formal Structure
+- **Mathematics & Mathematical Modeling**: dynamical systems, differential equations, formal structures in nature
+- **Probability & Statistics**: heavy-tailed distributions, uncertainty modeling, antifragility, Bayesian reasoning
+- **Information Theory & Complexity**: entropy, algorithmic complexity, compression, mutual information, complexity measures, connections between information and physical systems
+
+### Physical & Beyond Systems
+- **Complex Systems**: emergence, self-organization, network theory, phase transitions, critical phenomena
+- **Non-equilibrium Thermodynamics**: dissipative structures, free energy principles, open systems far from equilibrium
+- **Theoretical Biology & Pathology**: mathematical approaches to living systems, structural patterns in disease, histopathology
+
+### Mind, Meaning & Structure
+- **Neuroscience & Cognitive Science**: theoretical approaches to brain function, neural dynamics, computational neuroscience
+- **Psychiatry & Psychopathology**: mental illness, psychological structures, theoretical psychiatry
+- **Philosophy**: metaphysics, philosophy of mind, philosophy and history of science, theology
+
+### Languages, History & Culture
+- **Linguistics & Languages**: historical linguistics, language structure, classical languages, the logic of grammar
+- **History**: history of science, history of ideas, ancient, medieval, and all the history
+
+I write occasional essays on [Medium](https://medium.com/@axiomatheou) exploring these and related ideas.
+
+---
+
+## 🧰 Tools & Methods
+
+- **Programming:** Python, R, HTML (yes, i know), Bash, learning C++
+- **Skills:** Mathematical modeling, data analysis, agent-based modeling (NetLogo), histological techniques
 - **Other:** LaTeX, Linux, bioinformatics, electronics, writing, public speaking
 
 ---
 
-## 🌍 Languages i speak (to different levels)
+## 🌍 Languages I speak (to different levels)
 
-Spanish • English • Latin • German • Italian • Portuguese • Ancient Greek (all learning except Spanish :P)
+Spanish • English • Latin • German • Italian • Portuguese • Ancient Greek *(all learning except Spanish :P)*
 
 ---
 
-## 🐾 Beyond Science  
+## 📚 Beyond Science
 
-**Authors i like:** Aristotle • Augustine • Dostoevsky • H.G. Wells • Tolstoy • Camus • Kundera • Borges  • Goethe • Arreola • McCarthy • Ovid • Aquinas • Wittgenstein • Feser  
+**Authors I return to:**
 
-**My three little cats**: Catullus, Clío, and Calímaco (Cali).
+Aristotle • Thomas Aquinas • Augustine of Hippo • Leibniz • Descartes • Wittgenstein • Thomas Nagel • Alvin Plantinga • David Oderberg • C.S. Lewis • Nassim Nicholas Taleb
+
+Dostoevsky • Tolstoy • Goethe • Borges • Camus • Kundera • Arreola • McCarthy • H.G. Wells • Ovid • Shakespeare • Hesse • Verne
+
+Francis of Assisi • Ignatius of Loyola • John Chrysostom • John Climacus • John of the Cross • Thomas à Kempis • Francis de Sales • Lorenzo Scupoli
+
+**My three little cats:** Catullus, Clío, and Calímaco (Cali).
 
 ---
