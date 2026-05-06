@@ -15,7 +15,7 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 
 <h2>🔭 Interests</h2>
 
-<p><strong>Formal</strong><br>
+<p><strong>Formal 📊</strong><br>
 <img src="https://img.shields.io/badge/Dynamical_Systems-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Probability_Theory-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Information_Theory-1a1a2e?style=flat-square"/>
@@ -24,7 +24,7 @@ I work at the intersection of complex systems, applied mathematics, physics, and
   <img src="https://img.shields.io/badge/Statistics-1a1a2e?style=flat-square"/>
 </p>
 
-<p><strong>Physical</strong><br>
+<p><strong>Physical 🌐</strong><br>
 <img src="https://img.shields.io/badge/Complex_Systems-16213e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Non--equilibrium_Thermo-16213e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Dissipative_Structures-16213e?style=flat-square"/>
@@ -32,14 +32,14 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 <img src="https://img.shields.io/badge/Synchronization_Phenomena-1a1a2e?style=flat-square"/>
 </p>
 
-<p><strong>Natural</strong><br>
+<p><strong>Natural 🩻</strong><br>
 <img src="https://img.shields.io/badge/Neuroscience-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Psychopathology-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Free_Energy_Principle-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Theoretical_Biology-0f3460?style=flat-square"/>
 </p>
 
-<p><strong>Philosophical</strong><br>
+<p><strong>Philosophical 📜</strong><br>
 <img src="https://img.shields.io/badge/Metaphysics-2d2d2d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Philosophy_of_Mind-2d2d2d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Theology-2d2d2d?style=flat-square"/>
@@ -65,7 +65,7 @@ Francis of Assisi · Ignatius of Loyola · John Chrysostom · John Climacus · J
 Tolstoy · Goethe · Borges · Camus · Kundera · Arreola · McCarthy · Shakespeare · Hesse · Verne
 
 
-## 🐱 Gatos, Cats, Cattī, Katzen, Gatti, Gatos & αἴλουροι!
+## 🐱 Gatos, Cats, Cattī, Katzen, Gatti, Gatos & Αἴλουροι!
 **My three little cats:** Catullus, Clío, and Calímaco (Cali).
 
 ---
