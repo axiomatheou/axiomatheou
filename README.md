@@ -19,21 +19,21 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 <img src="https://img.shields.io/badge/Dynamical_Systems-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Probability_Theory-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Information_Theory-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Algorithmic_Complexity-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bayesian_Reasoning-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network_Theory-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Antifragility-1a1a2e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistics-1a1a2e?style=flat-square"/>
 </p>
 
 <p><strong>Physical</strong><br>
 <img src="https://img.shields.io/badge/Complex_Systems-16213e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Non--equilibrium_Thermo-16213e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Dissipative_Structures-16213e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Network_Theory-16213e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Phase_Transitions-16213e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Synchronization_Phenomena-1a1a2e?style=flat-square"/>
 </p>
 
 <p><strong>Natural</strong><br>
-<img src="https://img.shields.io/badge/Computational_Neuroscience-0f3460?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neuroscience-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Psychopathology-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Free_Energy_Principle-0f3460?style=flat-square"/>
 <img src="https://img.shields.io/badge/Theoretical_Biology-0f3460?style=flat-square"/>
@@ -43,18 +43,8 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 <img src="https://img.shields.io/badge/Metaphysics-2d2d2d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Philosophy_of_Mind-2d2d2d?style=flat-square"/>
 <img src="https://img.shields.io/badge/Theology-2d2d2d?style=flat-square"/>
-<img src="https://img.shields.io/badge/History_of_Ideas-2d2d2d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Philosophy_of_Science-2d2d2d?style=flat-square"/>
 </p>
-
-
-## 🧰 Tools & Methods
-
-```
-Languages   →   Python · R · Bash · C++ (learning) · HTML (yes, I know)
-Modeling    →   dynamical systems · agent-based (NetLogo) · data analysis
-Lab         →   histological techniques · molecular biology · bioinformatics
-Other       →   LaTeX · Linux · electronics · writing · public speaking
-```
 
 
 ## 🌍 Languages I speak (to different levels)
