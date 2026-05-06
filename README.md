@@ -58,7 +58,7 @@ I work at the intersection of complex systems, applied mathematics, physics, and
 
 **Authors I return to**
 
-Aristotle · Thomas Aquinas · Augustine of Hippo · Nassim Nicholas Taleb · Dostoevsky · H.G. Wells · Ovid · Descartes · Wittgenstein · C.S. Lewis · Leibniz ·
+Aristotle · Thomas Aquinas · Augustine of Hippo · Nassim Nicholas Taleb · Dostoevsky · H.G. Wells · Ovid · Wittgenstein · C.S. Lewis ·
 
 Francis of Assisi · Ignatius of Loyola · John Chrysostom · John Climacus · John of the Cross · Thomas à Kempis · Francis de Sales · Lorenzo Scupoli ·
 
