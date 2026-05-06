@@ -13,17 +13,44 @@
 I work at the intersection of complex systems, applied mathematics, physics, and the philosophy of nature. My focus is understanding how structure, order, and behavior emerge across levels of description and try to look to the deeper question of why there is pattern at all.
 
 
-## 🔭 Interests
+<section id="interests">
+  <h2>🔭 Interests</h2>
 
-**Formal** &nbsp;·&nbsp; dynamical systems · probability · information theory · algorithmic complexity · Bayesian reasoning · antifragility
+  <div class="interest-category">
+    <h3>Formal</h3>
+    <p>
+      dynamical systems · probability theory · information theory · algorithmic complexity · Bayesian reasoning · antifragility
+    </p>
+  </div>
 
-**Physical** &nbsp;·&nbsp; complex systems · non-equilibrium thermodynamics · dissipative structures · emergence · network theory · phase transitions
+  <div class="interest-category">
+    <h3>Physical</h3>
+    <p>
+      complex systems · non-equilibrium thermodynamics · dissipative structures · emergence · network theory · phase transitions
+    </p>
+  </div>
 
-**Natural** &nbsp;·&nbsp; computational neuroscience · psychopathology · free energy principle · neural dynamics · theoretical biology · histopathology
+  <div class="interest-category">
+    <h3>Natural</h3>
+    <p>
+      computational neuroscience · psychopathology · free energy principle · neural dynamics · theoretical biology · histopathology
+    </p>
+  </div>
 
-**Philosophical** &nbsp;·&nbsp; metaphysics · philosophy of mind · philosophy of science · theology · history of ideas
+  <div class="interest-category">
+    <h3>Philosophical</h3>
+    <p>
+      metaphysics · philosophy of mind · philosophy of science · theology · history of ideas
+    </p>
+  </div>
 
-**Humanistic** &nbsp;·&nbsp; linguistics · historical grammar · classical languages · music theory · counterpoint · history of ideas
+  <div class="interest-category">
+    <h3>Humanistic</h3>
+    <p>
+      linguistics · historical grammar · classical languages · music theory · counterpoint · history of ideas
+    </p>
+  </div>
+</section>
 
 
 ## 🧰 Tools & Methods
@@ -47,12 +74,14 @@ Other       →   LaTeX · Linux · electronics · writing · public speaking
 
 **Authors I return to**
 
-Aristotle · Thomas Aquinas · Augustine of Hippo · Leibniz · Descartes · Wittgenstein · Thomas Nagel · Alvin Plantinga · David Oderberg · C.S. Lewis · Nassim Nicholas Taleb
+Aristotle · Thomas Aquinas · Augustine of Hippo · Nassim Nicholas Taleb · Dostoevsky · H.G. Wells · Ovid · Descartes · Wittgenstein · C.S. Lewis · Leibniz ·
 
-Dostoevsky · Tolstoy · Goethe · Borges · Camus · Kundera · Arreola · McCarthy · H.G. Wells · Ovid · Shakespeare · Hesse · Verne
+Francis of Assisi · Ignatius of Loyola · John Chrysostom · John Climacus · John of the Cross · Thomas à Kempis · Francis de Sales · Lorenzo Scupoli ·
 
-Francis of Assisi · Ignatius of Loyola · John Chrysostom · John Climacus · John of the Cross · Thomas à Kempis · Francis de Sales · Lorenzo Scupoli
+Tolstoy · Goethe · Borges · Camus · Kundera · Arreola · McCarthy · Shakespeare · Hesse · Verne
 
+
+## 🐱 Gatos, Cats, Cattī, Katzen, Gatti, Gatos & αἴλουροι!
 **My three little cats:** Catullus, Clío, and Calímaco (Cali).
 
 ---
