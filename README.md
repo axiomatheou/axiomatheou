@@ -4,28 +4,16 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=28&duration=3500&pause=800&color=C8B8A2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌌+Santiago+Caballero+Rosas;ἀπὸ+μέτρου+γὰρ+καὶ+ἀριθμοῦ+καὶ+σταθμοῦ+πάντα+ἐποίησας." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=600&size=28&duration=3500&pause=800&color=C8B8A2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🌌+Santiago+Caballero+Rosas+📜;ἀπὸ+μέτρου+γὰρ+καὶ+ἀριθμοῦ+καὶ+σταθμοῦ+πάντα+ἐποίησας." alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
-  <em>«ἀπὸ μέτρου γὰρ καὶ ἀριθμοῦ καὶ σταθμοῦ πάντα ἐποίησας.»</em>
-</p>
+## 🧬 About Me
 
-<p align="center">
-  <a href="https://medium.com/@axiomatheou">
-    <img src="https://img.shields.io/badge/Medium-essays-informational?style=flat-square&color=1a1a1a&logo=medium&logoColor=white" />
-  </a>
-</p>
+I work at the intersection of complex systems, applied mathematics, physics, and the philosophy of nature. My focus is understanding how structure, order, and behavior emerge across levels of description and try to look to the deeper question of why there is pattern at all.
 
----
 
-I work at the intersection of complex systems, applied mathematics, and the philosophy of nature —
-tracing the Logos hidden in the structure of things, from dissipative systems to the architecture of mind.
-
----
-
-## Interests
+## 🔭 Interests
 
 **Formal** &nbsp;·&nbsp; dynamical systems · probability · information theory · algorithmic complexity · Bayesian reasoning · antifragility
 
@@ -37,9 +25,8 @@ tracing the Logos hidden in the structure of things, from dissipative systems to
 
 **Humanistic** &nbsp;·&nbsp; linguistics · historical grammar · classical languages · music theory · counterpoint · history of ideas
 
----
 
-## Tools & Methods
+## 🧰 Tools & Methods
 
 ```
 Languages   →   Python · R · Bash · C++ (learning) · HTML (yes, I know)
@@ -48,16 +35,15 @@ Lab         →   histological techniques · molecular biology · bioinformatics
 Other       →   LaTeX · Linux · electronics · writing · public speaking
 ```
 
----
 
-## Languages I speak *(to different levels)*
+## 🌍 Languages I speak (to different levels)
 
 `Spanish` `English` `Latin` `German` `Italian` `Portuguese` `Ancient Greek`
 &nbsp;&nbsp;*(all learning except Spanish :P)*
 
----
 
-## Beyond Science
+
+## 📚 Beyond Science
 
 **Authors I return to**
 
@@ -71,4 +57,4 @@ Francis of Assisi · Ignatius of Loyola · John Chrysostom · John Climacus · J
 
 ---
 
-<p align="center"><sub><em>pattern is not self-explanatory.</em></sub></p>
+<p align="center"><sub><em>Noli foras ire, in te ipsum redi; in interiore homine habitat veritas.</em></sub></p>
